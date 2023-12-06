@@ -1,0 +1,15 @@
+O 64 0 1 res/gfx/CrateBlockTexture.png
+O 96 0 1 res/gfx/CrateBlockTexture.png
+O 110 45 1 res/gfx/CrateBlockTexture.png
+O 160 25 1 res/gfx/CrateBlockTexture.png
+B 0 96 1 res/gfx/GrassBlockTexture.png
+B 32 96 1 res/gfx/GrassBlockTexture.png
+B 64 96 1 res/gfx/GrassBlockTexture.png
+B 96 128 1 res/gfx/GrassBlockTexture.png
+B 128 128 1 res/gfx/GrassBlockTexture.png
+B 160 128 1 res/gfx/GrassBlockTexture.png
+B 192 128 1 res/gfx/GrassBlockTexture.png
+B 224 128 1 res/gfx/GrassBlockTexture.png
+P 64 60 1
+G -0.1
+E
